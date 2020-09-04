@@ -92,7 +92,7 @@
   "dependencies": {
     "chart.js": "^2.8.0",
     "kafka-node": "^4.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "node-zookeeper-client": "^1.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.1",
